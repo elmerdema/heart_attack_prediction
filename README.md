@@ -43,6 +43,6 @@ The application assumes that you have a heart attack dataset in CSV format. The 
 
 ## Note
 - The application provides a basic overview of the dataset in the "Terminal" dialog.
-- Make sure to customize the color-coding and other visual aspects based on your preferences.
+- A specific class has been created for the Dialog Box. This class inherits from the `QDialog` class.
 
-Feel free to modify and extend the code according to your specific requirements.
+
